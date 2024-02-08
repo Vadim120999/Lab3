@@ -30,6 +30,7 @@
     <string name="learn_kotlin">Изучение Kotlin</string>
     <string name="coroutines">Корутины в Kotlin</string>
     <string name="scroll">Прокрутка</string>
+    <string name="covers">Обложки книг</string>
     <string name="List">List</string>
 
 </resources>
