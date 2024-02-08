@@ -11,6 +11,7 @@
     <string name="button_alertDialog">Диалоговое окно</string>
     <string name="button_row">Контейнер Row</string>
     <string name="button_column">Контейнер Column</string>
+    <string name="button_box">Контейнер Box</string>
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
     <string name="insert_email">Email</string>
