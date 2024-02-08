@@ -9,8 +9,12 @@
     <string name="button_textField">Ввод текста</string>
     <string name="button_progress">Прогрессбар</string>
     <string name="button_alertDialog">Диалоговое окно</string>
+    <string name="button_row">Контейнер Row</string>
     <string name="title_alertDialog">Внимание</string>
     <string name="alertDialog_about">Это диалоговое окно</string>
     <string name="insert_email">Email</string>
+    <string name="first">Первый</string>
+    <string name="second">Второй</string>
+    <string name="third">Третий</string>
 
 </resources>
